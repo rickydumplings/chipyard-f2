@@ -64,6 +64,7 @@
 [submodule "sims/firesim"]
 	path = sims/firesim
 	url = https://github.com/marie-anne-xu/firesim-f2.git
+	branch = rh-f2-ssh
 [submodule "software/baremetal-ide"]
 	path = software/baremetal-ide
 	url = https://github.com/ucb-bar/Baremetal-IDE.git
